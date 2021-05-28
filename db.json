@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name_of_disease": "Anthrax",
+      "date": "28 March 2021",
+      "report_status": "Sent",
+      "report_stage": "pending acceptance",
+      "report_type": "Vaccination report",
+      "error_report": ""
+    },
+    {
+      "id": 2,
+      "name_of_disease": "Anthrax",
+      "date": "29 March 2021",
+      "report_status": "Failed",
+      "report_stage": "",
+      "report_type": "Outbreak report",
+      "error_report": "Poor reception, please try again with a better reception. If error persists, reinstall app."
+    },
+    {
+      "id": 3,
+      "name_of_disease": "Anthrax",
+      "date": "1 April 2021",
+      "report_status": "Sent",
+      "report_stage": "accepted",
+      "report_type": "Suspicion report",
+      "error_report": ""
+    },
+    {
+      "id": 4,
+      "name_of_disease": "Anthrax",
+      "date": "2 April 2021",
+      "report_status": "Sent",
+      "report_stage": "accepted",
+      "report_type": "Suspicion report",
+      "error_report": ""
+    }
+  ]
+}
